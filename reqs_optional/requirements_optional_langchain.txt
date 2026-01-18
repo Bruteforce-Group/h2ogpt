@@ -11,7 +11,7 @@ langchain-core==0.2.23
 langchain-text-splitters==0.2.2
 #langchain_huggingface==0.0.3
 
-pypdf>=3.17.1
+pypdf>=6.6.0
 # avoid textract, requires old six
 #textract==1.6.5
 pypdfium2>=4.24.0
